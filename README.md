@@ -2,4 +2,4 @@
 
 Curso de Github
 
-[Visita mi perfil](www.linkedin.com/in/luis-a-ramírez-piña-b849a0255/)
+[Visita mi perfil](https://www.linkedin.com/in/luis-a-ram%C3%ADrez-pi%C3%B1a-b849a0255/)
